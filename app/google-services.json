@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227569275976",
+    "project_id": "restapi-ad900",
+    "storage_bucket": "restapi-ad900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227569275976:android:ef3fd6c8b502e15142f47d",
+        "android_client_info": {
+          "package_name": "com.anhntk429.myapp429"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuQOXEMpTfkZ93gs5Pqo0_eAQu0LGsVd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227569275976:android:4c4c23a07e3d8c4942f47d",
+        "android_client_info": {
+          "package_name": "com.example.asm_ph42900"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuQOXEMpTfkZ93gs5Pqo0_eAQu0LGsVd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
